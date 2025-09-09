@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it as below."
+title: "Fiji Image Analysis Macros"
+authors:
+  - family-names: "Akkad"
+    given-names: "Jude"
+version: "1.0.0"
+date-released: 2025-09-09
+url: "https://github.com/jujuakd888/fiji-image-analysis-macros"
+abstract: >
+  An open-source toolkit of Fiji (ImageJ) macros for quantitative image
+  analysis, supporting workflows in molecular farming, stem cell biology,
+  and cancer research. The macros streamline segmentation, intensity
+  quantification, and morphological analysis to ensure reproducible,
+  high-quality image data.
+keywords:
+  - Fiji
+  - ImageJ
+  - image analysis
+  - molecular farming
+  - stem cells
+  - cancer research
+license: "MIT"
